@@ -1,0 +1,20 @@
+html { background: #111; }
+body { 
+    background: #ddd;
+    width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: 'Bacasime Antique', serif;
+    }
+
+h1 { 
+  font-family: 'Poppins', sans-serif; 
+ }
+
+h2 { 
+font-family: 'Poppins', sans-serif;
+}
+
+h3 { 
+font-family: 'Poppins', sans-serif;
+}
